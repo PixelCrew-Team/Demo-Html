@@ -7,7 +7,7 @@
 
 ---
 
-## `Base Html paea Apis-Web`
+## `Base Html para Apis-Web`
 
 Solo Modifica Estos códigos a tu preferencias.
 
